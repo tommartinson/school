@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Classes I'm currently taking:
 
-You can use the [editor on GitHub](https://github.com/mcstrugs/school/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+* AP Spanish
+* AP Calculus AB
+* AP Computer Science A
+* Honors Chemistry
+* Honors US History
+* Honors American Literature
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Classes I have taken:
 
-### Markdown
+* Physics
+* AIM I-III
+* Spanish 1,2 - 5,6
+* Computer Science 1,2
+* World History
+* AP Biology
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## HMU if you need help with any of these subjects
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mcstrugs/school/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Biology
+* Computer Science
+* Spanish
+* Math
+* Physics
