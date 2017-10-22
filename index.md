@@ -15,6 +15,7 @@
 * Computer Science 1,2
 * World History
 * AP Biology
+* Obviously all the usuals as well...
 
 ## HMU if you need help with any of these subjects
 
